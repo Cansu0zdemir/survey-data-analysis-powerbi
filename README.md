@@ -28,7 +28,7 @@ The dataset contains survey responses including:
 *(Sample dataset included in the repository)*
 
 ## 📈 Dashboard Preview
-![Overview](screenshots/overview.png)
+![Overview](survey-data-analysis.png)
 
 ## 🚀 Use Case
 This dashboard can be used by:
